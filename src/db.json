@@ -1,0 +1,28 @@
+{
+  "infoModel": [
+    {
+      "firstName": "asf",
+      "lastName": "eg",
+      "age": 234,
+      "email": "ghdfhb@d.g",
+      "phone": "354165467",
+      "addr": "S/O: Pravesh Bhardwaj, bhardwaj bhawan, chopra katla, rani bazar, bikaner, Bikaner",
+      "city": "BIKANER",
+      "package": "gvdh",
+      "trainpref": "fht",
+      "id": 9
+    },
+    {
+      "firstName": "sa",
+      "lastName": "re",
+      "age": 12,
+      "email": "ds@df.vm",
+      "phone": "1234567890",
+      "addr": "S/O: Pravesh Bhardwaj, bhardwaj bhawan, chopra katla, rani bazar, bikaner, Bikaner",
+      "city": "BIKANER",
+      "package": "adsad",
+      "trainpref": "sdgwe",
+      "id": 10
+    }
+  ]
+}
